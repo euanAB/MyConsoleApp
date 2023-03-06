@@ -1,11 +1,11 @@
 # C# Console Applications App01 to App05
 | Author | Details |
 | ---- | ---- |
-**Name**: | Student Name  |
-**Student ID**: | 12345678 |
-**Course:** | Computing |
-**Module**: | CO453     |
-**Started**: | January 2021 |    
+**Name**: | Euan McGinness  |
+**Student ID**: | 22209029 |
+**Course:** | Computing With Web Development |
+**Module**: | CO453 |
+**Started**: | Febuary 2023 |    
 
 1. App01: Distance Converter
 2. App02: BMI Calculator
